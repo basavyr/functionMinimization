@@ -1,11 +1,6 @@
-# Header 1
-## Header 2
-### Header 3
+# Function Minimization
+## Mathematical Optimization
+### C++ using GSL library
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Performs mathematical minimization using GSL library for a multi-parameter function.
+C++
